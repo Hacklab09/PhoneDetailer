@@ -2,7 +2,7 @@
 PhoneDetailer is a free python script that let you give information about phone numbers.
 
 # ScreenShots
-![Phonedetailer](https://github.com/Hacklab09/PhoneDetailer/blob/main/scrrenshot.tif))
+![Phonedetailer](https://github.com/Hacklab09/PhoneDetailer/blob/main/scrrenshot.tif)
 
 # Installation
 
